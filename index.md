@@ -1,6 +1,6 @@
 # ServiceThread - Campaign & Reward Management
 
-Welcome to my campaign management hub. I coordinate various cryptocurrency campaigns, airdrops, and reward distributions across multiple blockchain networks.
+Welcome to my campaign management hub. I coordinate cryptocurrency campaigns, airdrops, and reward distributions across multiple blockchain networks.
 
 ---
 
@@ -15,11 +15,44 @@ Welcome to my campaign management hub. I coordinate various cryptocurrency campa
 
 ---
 
+## Bitcointalk Campaign Thread Overview
+
+The primary campaign thread for ServiceThread is the Bitcointalk profile/manager thread:
+
+- **Thread:** [Campaign Management Service | Signature/Bounty/Contests/Raffles](https://bitcointalk.org/index.php?topic=2522224.0)
+- **Owner:** julerz12
+- **Focus:** Signature campaigns, bounty management, contests, and raffles
+
+### Service Banner
+
+```text
+╔══════════════════════════════════════════════════════════════════════════╗
+║                🟦🟨 Campaign Management Service                        ║
+║             Signature / Bounty / Contests / Raffles                   ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+### Thread Highlights
+
+- Looking for a campaign manager?
+- PM me on Bitcointalk
+- Telegram: [@julerz12](https://t.me/julerz12)
+- Email: [julerz1258@gmail.com](mailto:julerz1258@gmail.com)
+- Discord: @julerz12
+
+### Core Services
+
+- Signature Campaigns
+- Bounty Management
+- Contests & Raffles
+
+---
+
 ## Campaign History
 
 ### Previous Rewards Distribution
 
-Detailed escrow and distribution records for all concluded campaigns are maintained in a comprehensive spreadsheet:
+Detailed escrow and distribution records for concluded campaigns are maintained in a comprehensive spreadsheet:
 
 - **[View Historical Rewards Data](https://docs.google.com/spreadsheets/d/1DpsXF7RCkeWUK46Bcu4qgIwzQ)**
 
@@ -49,15 +82,6 @@ Detailed escrow and distribution records for all concluded campaigns are maintai
 |---|---|---|
 | Campaign 5585814 | Active | [View Details](https://bitcointalk.org/index.php?topic=5585814) |
 | Campaign 5589081 | Active | [View Details](https://bitcointalk.org/index.php?topic=5589081) |
-
----
-
-## Contests, Airdrops & Reviews
-
-Explore ongoing and recent promotional activities:
-
-- [Contest Program 5156124](https://bitcointalk.org/index.php?topic=5156124.0)
-- [Review Campaign 5169902](https://bitcointalk.org/index.php?topic=5169902)
 
 ---
 
@@ -119,6 +143,22 @@ For campaign inquiries, partnership opportunities, or general questions:
 - **Telegram:** [@julerz12](https://t.me/julerz12)
 - **Bitcointalk PM:** [Send Message](https://bitcointalk.org/index.php?action=pm;sa=send;u=950662)
 - **Email:** [julerz1258@gmail.com](mailto:julerz1258@gmail.com)
+
+---
+
+## Thread Visuals
+
+The original Bitcointalk thread primarily used text-based banners and layout styling rather than direct image uploads. To preserve the campaign feel in the markdown version, the following text-art banner is included:
+
+```text
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                        ║
+║              SERVICE THREAD CAMPAIGN MANAGEMENT HUB                   ║
+║                                                                        ║
+║        Signature Campaigns | Bounties | Contests | Raffles             ║
+║                                                                        ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
