@@ -1,73 +1,125 @@
-Here’s a cleaned Markdown version of the visible content. The source appears to be BBCode from a Bitcointalk-style page, and some sections were truncated in the pasted text, so I’ve preserved the recoverable content and normalized the formatting.
+# ServiceThread - Campaign & Reward Management
 
-# ServiceThread
+Welcome to my campaign management hub. I coordinate various cryptocurrency campaigns, airdrops, and reward distributions across multiple blockchain networks.
 
-## Contact & Social Links
+---
 
-- [Bitcointalk Thread](https://bitcointalk.org/index.php?topic=2522224.0)
-- [Private Message](https://bitcointalk.org/index.php?action=pm;sa=send;u=950662)
-- [Telegram](https://t.me/julerz12)
-- [Email](mailto:julerz1258@gmail.com)
+## Quick Links
 
-## Previous Campaigns
+| Platform | Link |
+|---|---|
+| **Bitcointalk Thread** | [View Main Thread](https://bitcointalk.org/index.php?topic=2522224.0) |
+| **Telegram** | [@julerz12](https://t.me/julerz12) |
+| **LinkedIn** | [Jule Castillo](https://www.linkedin.com/in/jule-castillo-bb397214b/) |
+| **Email** | [julerz1258@gmail.com](mailto:julerz1258@gmail.com) |
 
-### Previous rewards distribution
-A more detailed previous rewards escrow and distribution data can be found in this spreadsheet:
-- [Google Sheets Spreadsheet](https://docs.google.com/spreadsheets/d/1DpsXF7RCkeWUK46Bcu4qgIwzQ)
+---
 
-### Campaign links
-- [Bitcointalk Topic 5434813](https://bitcointalk.org/index.php?topic=5434813)
-- [Bitcointalk Topic 5126495](https://bitcointalk.org/index.php?topic=5126495)
-- [Bitcointalk Topic 2584723](https://bitcointalk.org/index.php?topic=2584723)
-- [Bitcointalk Topic 5476914](https://bitcointalk.org/index.php?topic=5476914.0)
-- [Bitcointalk Topic 5392806](https://bitcointalk.org/index.php?topic=5392806)
-- [Bitcointalk Topic 5436428](https://bitcointalk.org/index.php?topic=5436428)
-- [Bitcointalk Topic 3043752](https://bitcointalk.org/index.php?topic=3043752)
-- [Bitcointalk Topic 2011082](https://bitcointalk.org/index.php?topic=2011082)
-- [Bitcointalk Topic 2956432](https://bitcointalk.org/index.php?topic=2956432)
-- [Bitcointalk Topic 2947933](https://bitcointalk.org/index.php?topic=2947933)
+## Campaign History
 
-## Contests, Airdrops & Review Campaigns
+### Previous Rewards Distribution
 
-- [Bitcointalk Topic 5156124](https://bitcointalk.org/index.php?topic=5156124.0)
-- [Bitcointalk Topic 5169902](https://bitcointalk.org/index.php?topic=5169902)
+Detailed escrow and distribution records for all concluded campaigns are maintained in a comprehensive spreadsheet:
+
+- **[View Historical Rewards Data](https://docs.google.com/spreadsheets/d/1DpsXF7RCkeWUK46Bcu4qgIwzQ)**
+
+### Past Campaign Archives
+
+#### Major Projects
+- [Campaign 5434813](https://bitcointalk.org/index.php?topic=5434813)
+- [Campaign 5126495](https://bitcointalk.org/index.php?topic=5126495)
+- [Campaign 5476914](https://bitcointalk.org/index.php?topic=5476914.0)
+- [Campaign 2584723](https://bitcointalk.org/index.php?topic=2584723)
+
+#### Additional Campaigns
+- [Campaign 5392806](https://bitcointalk.org/index.php?topic=5392806)
+- [Campaign 5436428](https://bitcointalk.org/index.php?topic=5436428)
+- [Campaign 3043752](https://bitcointalk.org/index.php?topic=3043752)
+- [Campaign 2011082](https://bitcointalk.org/index.php?topic=2011082)
+- [Campaign 2956432](https://bitcointalk.org/index.php?topic=2956432)
+- [Campaign 2947933](https://bitcointalk.org/index.php?topic=2947933)
+
+---
 
 ## Active Campaigns
 
-- [Bitcointalk Topic 5585814](https://bitcointalk.org/index.php?topic=5585814)
-- [Bitcointalk Topic 5589081](https://bitcointalk.org/index.php?topic=5589081)
+### Current Programs
 
-## Contact Details
+| Campaign | Status | Link |
+|---|---|---|
+| Campaign 5585814 | Active | [View Details](https://bitcointalk.org/index.php?topic=5585814) |
+| Campaign 5589081 | Active | [View Details](https://bitcointalk.org/index.php?topic=5589081) |
 
-- [LinkedIn](https://www.linkedin.com/in/jule-castillo-bb397214b/)
-- [Telegram: @julerz12](https://t.me/julerz12)
+---
 
-> To avoid getting used by scammers, ask for a signature of the addresses listed below before doing any transactions.
+## Contests, Airdrops & Reviews
+
+Explore ongoing and recent promotional activities:
+
+- [Contest Program 5156124](https://bitcointalk.org/index.php?topic=5156124.0)
+- [Review Campaign 5169902](https://bitcointalk.org/index.php?topic=5169902)
+
+---
 
 ## Wallet Addresses
 
-### Bitcoin
-`bc1qjdguhag6klu26e4kqvzcym7ywf83vc8ydup9l0`
+### Security Notice
 
-- [View on blockchain.info](https://blockchain.info/address/bc1qjdguhag6klu26e4kqvzcym7ywf83vc8ydup9l0)
+> To avoid getting used by scammers, ask for a signature of the addresses listed below before doing any transactions.
 
-### Solana
-`C3FVKEJ4rSPJZfTYtrnDphG9fAeCk19DUFy47xtxN9yz`
+---
 
-- [View on Solscan](https://solscan.io/account/C3FVKEJ4rSPJZfTYtrnDphG9fAeCk19DUFy47xtxN9yz)
+### Bitcoin (BTC)
 
-### TRON
-`TTJfVLa1myACXXibnfWG8B5HqFZ5L1GHqw`
+```text
+bc1qjdguhag6klu26e4kqvzcym7ywf83vc8ydup9l0
+```
 
-- [View on Tronscan](https://tronscan.org/#/address/TTJfVLa1myACXXibnfWG8B5HqFZ5L1GHqw)
+**Explorer:** [View on Blockchain.info](https://blockchain.info/address/bc1qjdguhag6klu26e4kqvzcym7ywf83vc8ydup9l0)
 
-### Ethereum / BSC / Polygon / Fantom / Avalanche / Arbitrum
-`0xac97F92a474a606EDe13B81eeB18456db05E8034`
+---
 
-- [View on Etherscan](https://etherscan.io/address/0xac97F92a474a606EDe13B81eeB18456db05E8034)
+### Solana (SOL)
 
-If you want, I can also turn this into:
-- a cleaner HTML version
-- a plain-text version
-- a version with the campaign image links preserved as Markdown images
-- or a full rewrite in a more polished website-style format.
+```text
+C3FVKEJ4rSPJZfTYtrnDphG9fAeCk19DUFy47xtxN9yz
+```
+
+**Explorer:** [View on Solscan](https://solscan.io/account/C3FVKEJ4rSPJZfTYtrnDphG9fAeCk19DUFy47xtxN9yz)
+
+---
+
+### TRON (TRX)
+
+```text
+TTJfVLa1myACXXibnfWG8B5HqFZ5L1GHqw
+```
+
+**Explorer:** [View on Tronscan](https://tronscan.org/#/address/TTJfVLa1myACXXibnfWG8B5HqFZ5L1GHqw)
+
+---
+
+### Multi-Chain Wallet
+
+**Supported networks:** Ethereum, Binance Smart Chain, Polygon, Fantom, Avalanche, Arbitrum
+
+```text
+0xac97F92a474a606EDe13B81eeB18456db05E8034
+```
+
+**Explorer:** [View on Etherscan](https://etherscan.io/address/0xac97F92a474a606EDe13B81eeB18456db05E8034)
+
+---
+
+## Contact Details
+
+For campaign inquiries, partnership opportunities, or general questions:
+
+- **LinkedIn:** [Jule Castillo](https://www.linkedin.com/in/jule-castillo-bb397214b/)
+- **Telegram:** [@julerz12](https://t.me/julerz12)
+- **Bitcointalk PM:** [Send Message](https://bitcointalk.org/index.php?action=pm;sa=send;u=950662)
+- **Email:** [julerz1258@gmail.com](mailto:julerz1258@gmail.com)
+
+---
+
+*This page is intended to provide a clean overview of active and historical ServiceThread campaign activity.*
